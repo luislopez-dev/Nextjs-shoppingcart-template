@@ -65,7 +65,5 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 ![alt text](https://i.imgur.com/N5Ewmdl.png)
 
 ## Licence
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-* MIT License
 * Copyright 2021-2024 © [Luis Lopez](https://github.com/luislopez-dev)
