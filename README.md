@@ -6,7 +6,6 @@
 * [Technology](#technology)
 * [Pages](#endpoints)
 * [API calls](#api-calls)
-* [Licence](#licence)
 
 
 ## Introduction
@@ -64,6 +63,5 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 
 ![alt text](https://i.imgur.com/N5Ewmdl.png)
 
-## Licence
 
 * Copyright 2021-2024 © [Luis Lopez](https://github.com/luislopez-dev)
