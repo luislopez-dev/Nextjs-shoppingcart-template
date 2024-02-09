@@ -4,6 +4,8 @@
 
 * [Introduction](#introduction)
 * [Technology](#technology)
+* [Installation](#installation)
+* [Run](#run)
 * [Pages](#pages)
 * [Admin dashboard](#admin-dashboard)
 * [Backend web services](#backend-web-services)
@@ -20,6 +22,20 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 * Server side rendering
 * React Bootstrap
 * NPM
+
+## Installation
+
+1. Clone this repository `git clone React.js-ecommerce-management-dashboard`
+
+2. Go to the project `cd React.js-ecommerce-management-dashboard`
+
+3. Install the project dependencies `npm install`
+
+## Run
+
+* For development and testing purposes run `npm run serve` in order to start the application
+
+* For deployment and production ready run `npm run build`. This command builds the production application
 
 ## Pages
 
