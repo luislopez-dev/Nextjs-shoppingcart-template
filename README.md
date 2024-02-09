@@ -91,5 +91,6 @@ https://github.com/luislopez-dev/Nextjs-shoppingcart-template
 
 <img width="90" height="80" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png" alt="external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo"/> https://github.com/luislopez-dev/Rails-shopingcart-web-services
 
+<br>
 
 Copyright 2021-2024 © [Luis Lopez](https://github.com/luislopez-dev)
