@@ -23,7 +23,7 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 
 ## Frontend Template
 
-https://github.com/luislopez-dev/Nextjs-shoppingcart-template
+<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> https://github.com/luislopez-dev/Nextjs-shoppingcart-template
 
 ## Pages
 
