@@ -92,7 +92,7 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 
 ## Admin dashboard
 
-https://github.com/luislopez-dev/Shoppingcart-admin-dashboard
+https://github.com/luislopez-dev/Shoppingcart-admin-dashboard-template
 
 ### Support
 
