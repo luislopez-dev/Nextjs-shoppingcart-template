@@ -4,9 +4,8 @@
 
 * [Introduction](#introduction)
 * [Technology](#technology)
-* [Pages](#endpoints)
-* [API calls](#api-calls)
-
+* [Pages](#pages)
+* [Backend web services](#backendwebservices)
 
 ## Introduction
 
@@ -64,4 +63,22 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 ![alt text](https://i.imgur.com/N5Ewmdl.png)
 
 
+## Installation
+
+1. Clone this repository `git clone https://github.com/Luis-Rene-Lopez/Next.js-ecommerce-template`
+
+2. Go to the project `cd Next.js-ecommerce-template`
+
+3. Install the project dependencies `npm install`
+
+## Run
+
+* For development and testing purposes run `next dev` in order to initiate the application
+
+* For deployment and production ready run `next build`. This command builds the production application in the .next folder.
+
+* After building run `next start` to start a Node.js server that supports hybrid pages, serving both statically generated and server-side rendered pages.
+
 * Copyright 2021-2024 © [Luis Lopez](https://github.com/luislopez-dev)
+
+## Backend web services
