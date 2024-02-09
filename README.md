@@ -6,7 +6,6 @@
 * [Technology](#technology)
 * [Pages](#pages)
 * [Backend web services](#backend-web-services)
-* Version 2
 
 ## Introduction
 
@@ -83,8 +82,7 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 
 * Node.js: https://github.com/luislopez-dev/Nextjs-shoppingcart-template
 * GraphQL +  nODE.JS: https://github.com/luislopez-dev/Graphql-shoppingcart-webservices
-* RUby on Rails: 
-
+* RUby on Rails: https://github.com/luislopez-dev/Rails-shopingcart-web-services
 
 ## Version 2 
 
