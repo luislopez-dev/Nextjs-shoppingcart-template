@@ -84,8 +84,4 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 * GraphQL +  Node.js: https://github.com/luislopez-dev/Graphql-shoppingcart-webservices
 * Ruby on Rails: https://github.com/luislopez-dev/Rails-shopingcart-web-services
 
-## Version 2 
-
-Under development
-
-* Copyright 2021-2024 © [Luis Lopez](https://github.com/luislopez-dev)
+Copyright 2021-2024 © [Luis Lopez](https://github.com/luislopez-dev)
