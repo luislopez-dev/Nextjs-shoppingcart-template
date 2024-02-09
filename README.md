@@ -70,6 +70,9 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 
 3. Install the project dependencies `npm install`
 
+4. Connect the project to the backend web services
+
+
 ## Run
 
 * For development and testing purposes run `next dev` in order to initiate the application
