@@ -85,8 +85,10 @@ https://github.com/luislopez-dev/Nextjs-shoppingcart-template
 
 ## Backend web services
 
-* Node.js: https://github.com/luislopez-dev/Nextjs-shoppingcart-template
-* GraphQL +  Node.js: https://github.com/luislopez-dev/Graphql-shoppingcart-webservices
-* Ruby on Rails: https://github.com/luislopez-dev/Rails-shopingcart-web-services
+<img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>  https://github.com/luislopez-dev/Node.js-ecommerce-services
+
+<img width="34" height="34" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-color-tal-revivo.png" alt="external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-color-tal-revivo"/>  https://github.com/luislopez-dev/Graphql-shoppingcart-webservices
+
+<img width="34" height="34" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png" alt="external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo"/> https://github.com/luislopez-dev/Rails-shopingcart-web-services
 
 Copyright 2021-2024 © [Luis Lopez](https://github.com/luislopez-dev)
