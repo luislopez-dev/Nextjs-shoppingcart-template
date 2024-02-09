@@ -5,6 +5,7 @@
 * [Introduction](#introduction)
 * [Technology](#technology)
 * [Pages](#pages)
+* [Admin dashboard](#admin-dashboard)
 * [Backend web services](#backend-web-services)
 
 ## Introduction
@@ -88,6 +89,10 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-color-tal-revivo.png" alt="external-graphql-an-open-source-data-query-and-manipulation-language-for-api-logo-color-tal-revivo"/>  https://github.com/luislopez-dev/Graphql-shoppingcart-webservices
 
 <img width="90" height="80" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png" alt="external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo"/> https://github.com/luislopez-dev/Rails-shopingcart-web-services
+
+## Admin dashboard
+
+https://github.com/luislopez-dev/Shoppingcart-admin-dashboard
 
 ### Support
 
