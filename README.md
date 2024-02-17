@@ -9,7 +9,7 @@
 * [Pages](#pages)
 * [Admin dashboard](#admin-dashboard)
 * [Backend web services](#backend-web-services)
-* [Version 2](#version-2.0)
+* [Version 2.0](#version-2.0)
 
 ## Introduction
 
