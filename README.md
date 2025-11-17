@@ -81,17 +81,4 @@ Next.js ecommerce template, it's a multipurpose open source project mainly desig
 
 * After building run `next start` to start a Node.js server that supports hybrid pages, serving both statically generated and server-side rendered pages.
 
-
-## Version 2.0
-
-Under development
-<details>
-  <summary>Version 2.0 under development</summary>
-  <img src="https://github.com/luislopez-dev/Nextjs-shoppingcart-template/assets/48783255/7cac687a-b945-4bf5-bdb4-fa98a4a8c857" alt="image-description"/>
-  <img src="https://github.com/luislopez-dev/Nextjs-shoppingcart-template/assets/48783255/c4bbf02b-dbb7-4e1e-a721-8a018c247b23" alt="image-description"/>
-  <img src="https://github.com/luislopez-dev/Nextjs-shoppingcart-template/assets/48783255/61b4d0bc-c703-4fc7-9c14-b8640e0f0221" alt="image-description"/>
-  <img src="https://github.com/luislopez-dev/Nextjs-shoppingcart-template/assets/48783255/c4bbf02b-dbb7-4e1e-a721-8a018c247b23" alt="image-description"/>
-  <img src="https://github.com/luislopez-dev/Nextjs-shoppingcart-template/assets/48783255/a5260e0d-476d-4113-8ce6-4f4519ea12c8" alt="image-description"/>
-</details>
-
 Created by © [Luis Lopez](https://github.com/luislopez-dev)
