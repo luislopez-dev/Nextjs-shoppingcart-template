@@ -1,4 +1,4 @@
-# Next.js / React ecommerce template
+# Next.js - shoppingCart template
 
 ## Table of contents
 
