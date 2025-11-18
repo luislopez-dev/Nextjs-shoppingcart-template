@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Next.js ecommerce template, it's a multipurpose open source project mainly designed for selling products online. Developed by [Luis López](https://github.com/luislopez-dev).
+Next.js shoppingCart open source template. Developed by [Luis López](https://github.com/luislopez-dev).
 
 ## Technology
 
